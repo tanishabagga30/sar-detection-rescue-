@@ -1,0 +1,4264 @@
+{
+    "57f2c610-05c4-4e82-a2d3-88255fe4c375.jpg": {
+        "image_name": "57f2c610-05c4-4e82-a2d3-88255fe4c375.jpg",
+        "num_objects": 8,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    923,
+                    716,
+                    1031,
+                    935
+                ],
+                "score": 0.7584912776947021,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    464,
+                    630,
+                    523,
+                    769
+                ],
+                "score": 0.6144189238548279,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    286,
+                    597,
+                    313,
+                    663
+                ],
+                "score": 0.512633740901947,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    267,
+                    596,
+                    313,
+                    664
+                ],
+                "score": 0.47119593620300293,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    549,
+                    686,
+                    641,
+                    843
+                ],
+                "score": 0.4489130675792694,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    700,
+                    676,
+                    779,
+                    838
+                ],
+                "score": 0.4433296024799347,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    262,
+                    597,
+                    295,
+                    665
+                ],
+                "score": 0.43763479590415955,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    701,
+                    672,
+                    818,
+                    841
+                ],
+                "score": 0.3026816248893738,
+                "label": "person"
+            }
+        ],
+        "scene": {
+            "terrain": "steep_or_uneven",
+            "terrain_confidence": 0.8101,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.2601
+        },
+        "priority": {
+            "score": 50,
+            "tier": "P2",
+            "reason": "Hazardous terrain (steep_or_uneven), multiple subjects (8)."
+        }
+    },
+    "depositphotos_311356416-stock-photo-aerial-view-cows-herd-grazing.jpg": {
+        "image_name": "depositphotos_311356416-stock-photo-aerial-view-cows-herd-grazing.jpg",
+        "num_objects": 37,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    779,
+                    754,
+                    840,
+                    897
+                ],
+                "score": 0.8281072378158569,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    1113,
+                    771,
+                    1171,
+                    899
+                ],
+                "score": 0.8236104249954224,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    1516,
+                    808,
+                    1596,
+                    899
+                ],
+                "score": 0.7389222979545593,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    939,
+                    437,
+                    1041,
+                    559
+                ],
+                "score": 0.7324767112731934,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    1309,
+                    647,
+                    1430,
+                    747
+                ],
+                "score": 0.7240385413169861,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    430,
+                    539,
+                    486,
+                    681
+                ],
+                "score": 0.6613860130310059,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    891,
+                    662,
+                    940,
+                    840
+                ],
+                "score": 0.6570849418640137,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    356,
+                    579,
+                    407,
+                    730
+                ],
+                "score": 0.6523994207382202,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    834,
+                    454,
+                    914,
+                    591
+                ],
+                "score": 0.6391341686248779,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    544,
+                    740,
+                    601,
+                    898
+                ],
+                "score": 0.6160476803779602,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    979,
+                    681,
+                    1028,
+                    838
+                ],
+                "score": 0.6096336841583252,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    557,
+                    532,
+                    608,
+                    666
+                ],
+                "score": 0.5995801091194153,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    489,
+                    637,
+                    538,
+                    778
+                ],
+                "score": 0.5953143835067749,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    236,
+                    473,
+                    295,
+                    625
+                ],
+                "score": 0.5822566151618958,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    1086,
+                    487,
+                    1142,
+                    633
+                ],
+                "score": 0.5457402467727661,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    604,
+                    419,
+                    656,
+                    542
+                ],
+                "score": 0.5350344777107239,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    646,
+                    561,
+                    686,
+                    715
+                ],
+                "score": 0.5321669578552246,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    183,
+                    378,
+                    231,
+                    495
+                ],
+                "score": 0.5203967094421387,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    1197,
+                    497,
+                    1304,
+                    623
+                ],
+                "score": 0.5170190334320068,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    1047,
+                    564,
+                    1102,
+                    697
+                ],
+                "score": 0.462495893239975,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    248,
+                    300,
+                    296,
+                    409
+                ],
+                "score": 0.4555298686027527,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    1472,
+                    280,
+                    1523,
+                    397
+                ],
+                "score": 0.44725751876831055,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    315,
+                    554,
+                    358,
+                    682
+                ],
+                "score": 0.4414641261100769,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    1568,
+                    340,
+                    1599,
+                    459
+                ],
+                "score": 0.4030624330043793,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    1033,
+                    333,
+                    1093,
+                    439
+                ],
+                "score": 0.37986236810684204,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    954,
+                    121,
+                    997,
+                    209
+                ],
+                "score": 0.3418620526790619,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    1052,
+                    294,
+                    1157,
+                    402
+                ],
+                "score": 0.32488176226615906,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    381,
+                    236,
+                    423,
+                    339
+                ],
+                "score": 0.31740275025367737,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    131,
+                    219,
+                    188,
+                    326
+                ],
+                "score": 0.30247193574905396,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    1092,
+                    263,
+                    1204,
+                    345
+                ],
+                "score": 0.29906901717185974,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    518,
+                    397,
+                    561,
+                    519
+                ],
+                "score": 0.2943800091743469,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    456,
+                    419,
+                    498,
+                    533
+                ],
+                "score": 0.27721714973449707,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    1190,
+                    380,
+                    1231,
+                    489
+                ],
+                "score": 0.2699538469314575,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    736,
+                    340,
+                    779,
+                    447
+                ],
+                "score": 0.2630308270454407,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    983,
+                    276,
+                    1024,
+                    394
+                ],
+                "score": 0.26012933254241943,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    280,
+                    194,
+                    318,
+                    287
+                ],
+                "score": 0.2555888295173645,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    527,
+                    238,
+                    567,
+                    340
+                ],
+                "score": 0.25435248017311096,
+                "label": "bird"
+            }
+        ],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.4751,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.4444
+        },
+        "priority": {
+            "score": 30,
+            "tier": "P3",
+            "reason": "Multiple subjects (37)."
+        }
+    },
+    "gss1060_jpg.rf.7154ef2136053a9767c8ad3d4b18751b.jpg": {
+        "image_name": "gss1060_jpg.rf.7154ef2136053a9767c8ad3d4b18751b.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.5965,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.3462
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "HFNFHBKRISH6MZMANCHQVOPFLI.jpg": {
+        "image_name": "HFNFHBKRISH6MZMANCHQVOPFLI.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    354,
+                    318,
+                    1166,
+                    1039
+                ],
+                "score": 0.8486462235450745,
+                "label": "dog"
+            }
+        ],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.9573,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.3636
+        },
+        "priority": {
+            "score": 30,
+            "tier": "P3",
+            "reason": "Hazardous terrain (rocky_rubble), multiple subjects (1)."
+        }
+    },
+    "photo-1688226575978-204ef7b75338.jpg": {
+        "image_name": "photo-1688226575978-204ef7b75338.jpg",
+        "num_objects": 2,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1275,
+                    886,
+                    1531,
+                    1510
+                ],
+                "score": 0.761661946773529,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    1344,
+                    886,
+                    1527,
+                    1452
+                ],
+                "score": 0.30564069747924805,
+                "label": "person"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.7027,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.476
+        },
+        "priority": {
+            "score": 20,
+            "tier": "P3",
+            "reason": "Multiple subjects (2)."
+        }
+    },
+    "vis_high_gss137_jpg.rf.72abcef404850716610a5b639fa0b0f0.jpg": {
+        "image_name": "vis_high_gss137_jpg.rf.72abcef404850716610a5b639fa0b0f0.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.6178,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.2359
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_high_gss1902_jpg.rf.dfb819f3719e535490c0a95213c944c0.jpg": {
+        "image_name": "vis_high_gss1902_jpg.rf.dfb819f3719e535490c0a95213c944c0.jpg",
+        "num_objects": 4,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    783,
+                    278,
+                    855,
+                    449
+                ],
+                "score": 0.6570377349853516,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    482,
+                    509,
+                    558,
+                    622
+                ],
+                "score": 0.529498815536499,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    855,
+                    274,
+                    897,
+                    404
+                ],
+                "score": 0.5120856761932373,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    629,
+                    459,
+                    680,
+                    567
+                ],
+                "score": 0.3057933747768402,
+                "label": "person"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.5277,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2672
+        },
+        "priority": {
+            "score": 60,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (4)."
+        }
+    },
+    "vis_high_gss1918_jpg.rf.653a4979e42bffe159c7f52facbbf8fb.jpg": {
+        "image_name": "vis_high_gss1918_jpg.rf.653a4979e42bffe159c7f52facbbf8fb.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.5643,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.3055
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_high_gss2065_jpg.rf.714bebad2656e2bb6fd021a7e1827eac.jpg": {
+        "image_name": "vis_high_gss2065_jpg.rf.714bebad2656e2bb6fd021a7e1827eac.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1216,
+                    698,
+                    1276,
+                    808
+                ],
+                "score": 0.29905757308006287,
+                "label": "person"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.7946,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.3633
+        },
+        "priority": {
+            "score": 10,
+            "tier": "P4",
+            "reason": "Multiple subjects (1)."
+        }
+    },
+    "vis_high_gss2083_jpg.rf.af407d4d167d9265157c3748aefd3174.jpg": {
+        "image_name": "vis_high_gss2083_jpg.rf.af407d4d167d9265157c3748aefd3174.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.6083,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.282
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_high_gss833_jpg.rf.a5505a5d47552dae678eb25a171b6c6d.jpg": {
+        "image_name": "vis_high_gss833_jpg.rf.a5505a5d47552dae678eb25a171b6c6d.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.5267,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.301
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1010_jpg.rf.63dcdae3f51c0318c1811ae94f5f2869.jpg": {
+        "image_name": "vis_low_gss1010_jpg.rf.63dcdae3f51c0318c1811ae94f5f2869.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.8479,
+            "activity": "active movement",
+            "activity_confidence": 0.2235
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1027_jpg.rf.61b7131736a5513c1085a8c294e02473.jpg": {
+        "image_name": "vis_low_gss1027_jpg.rf.61b7131736a5513c1085a8c294e02473.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.739,
+            "activity": "active movement",
+            "activity_confidence": 0.3578
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1030_jpg.rf.d055d83b78c42127f989ad86f13346ac.jpg": {
+        "image_name": "vis_low_gss1030_jpg.rf.d055d83b78c42127f989ad86f13346ac.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.8869,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2677
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss106_jpg.rf.7473a70890c2c9add1cdaa8dd21722c7.jpg": {
+        "image_name": "vis_low_gss106_jpg.rf.7473a70890c2c9add1cdaa8dd21722c7.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.9525,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.2599
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1090_jpg.rf.e6c865c22ca5820a5d2a66d703d1c219.jpg": {
+        "image_name": "vis_low_gss1090_jpg.rf.e6c865c22ca5820a5d2a66d703d1c219.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.8103,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.3805
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1097_jpg.rf.da0d5f2b54cda846ec2eed3deaa75849.jpg": {
+        "image_name": "vis_low_gss1097_jpg.rf.da0d5f2b54cda846ec2eed3deaa75849.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.6684,
+            "activity": "active movement",
+            "activity_confidence": 0.3163
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1108_jpg.rf.afcbefd85529bf60a57a92f853b364cb.jpg": {
+        "image_name": "vis_low_gss1108_jpg.rf.afcbefd85529bf60a57a92f853b364cb.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.6931,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.2226
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1112_jpg.rf.9da717d54aac417903fb73634d717111.jpg": {
+        "image_name": "vis_low_gss1112_jpg.rf.9da717d54aac417903fb73634d717111.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.5955,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.307
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1113_jpg.rf.29fb8120a43242d8ffa25821915b8167.jpg": {
+        "image_name": "vis_low_gss1113_jpg.rf.29fb8120a43242d8ffa25821915b8167.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.6121,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.2258
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1117_jpg.rf.0f80f67e84f5abc2dde895b8c87a0378.jpg": {
+        "image_name": "vis_low_gss1117_jpg.rf.0f80f67e84f5abc2dde895b8c87a0378.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.7255,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2049
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss111_jpg.rf.7487078e79453fb72b8742fb980066b7.jpg": {
+        "image_name": "vis_low_gss111_jpg.rf.7487078e79453fb72b8742fb980066b7.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.8712,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3271
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1168_jpg.rf.0b57ddff3aca6accf8e7939ec965d1e9.jpg": {
+        "image_name": "vis_low_gss1168_jpg.rf.0b57ddff3aca6accf8e7939ec965d1e9.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "steep_or_uneven",
+            "terrain_confidence": 0.446,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.3185
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1170_jpg.rf.e3b410812415f6f6109d686eef27e378.jpg": {
+        "image_name": "vis_low_gss1170_jpg.rf.e3b410812415f6f6109d686eef27e378.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "steep_or_uneven",
+            "terrain_confidence": 0.5531,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.3569
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1187_jpg.rf.2f7e887e4d96cc33d4f31a96364cd834.jpg": {
+        "image_name": "vis_low_gss1187_jpg.rf.2f7e887e4d96cc33d4f31a96364cd834.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4852,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.3386
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1191_jpg.rf.46e9f1357a23844e697c81d0703ad38d.jpg": {
+        "image_name": "vis_low_gss1191_jpg.rf.46e9f1357a23844e697c81d0703ad38d.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.4082,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.2519
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1293_jpg.rf.4408195e74c6b71716f49c721408f42d.jpg": {
+        "image_name": "vis_low_gss1293_jpg.rf.4408195e74c6b71716f49c721408f42d.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.5405,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2552
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1301_jpg.rf.8fc0cbcb7e7778db493104e8bb8dd0de.jpg": {
+        "image_name": "vis_low_gss1301_jpg.rf.8fc0cbcb7e7778db493104e8bb8dd0de.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.337,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.5033
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1305_jpg.rf.9a09303baea77308245bc0219ef7c91e.jpg": {
+        "image_name": "vis_low_gss1305_jpg.rf.9a09303baea77308245bc0219ef7c91e.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.48,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.3052
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1335_jpg.rf.739a10d48e9c4e9e69c7238e25356ac6.jpg": {
+        "image_name": "vis_low_gss1335_jpg.rf.739a10d48e9c4e9e69c7238e25356ac6.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3749,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.4351
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1346_jpg.rf.a75309097c92b5f359c55d8ed8ddc34e.jpg": {
+        "image_name": "vis_low_gss1346_jpg.rf.a75309097c92b5f359c55d8ed8ddc34e.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    662,
+                    431,
+                    707,
+                    479
+                ],
+                "score": 0.3755856454372406,
+                "label": "bird"
+            }
+        ],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3667,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2307
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (1)."
+        }
+    },
+    "vis_low_gss1350_jpg.rf.95249a2c7bd38d4f30adf57960633177.jpg": {
+        "image_name": "vis_low_gss1350_jpg.rf.95249a2c7bd38d4f30adf57960633177.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    473,
+                    804,
+                    549,
+                    898
+                ],
+                "score": 0.5971004962921143,
+                "label": "bird"
+            }
+        ],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3999,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2847
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (1)."
+        }
+    },
+    "vis_low_gss135_jpg.rf.f177204247a0ef470acda22d5662dfb0.jpg": {
+        "image_name": "vis_low_gss135_jpg.rf.f177204247a0ef470acda22d5662dfb0.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.9236,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.4487
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1375_jpg.rf.708551f1a8c339cc136b32e185a69871.jpg": {
+        "image_name": "vis_low_gss1375_jpg.rf.708551f1a8c339cc136b32e185a69871.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.4013,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.2908
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1391_jpg.rf.c4ff9f056e4ba0ebe26dd8724f81b269.jpg": {
+        "image_name": "vis_low_gss1391_jpg.rf.c4ff9f056e4ba0ebe26dd8724f81b269.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.3704,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.2368
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1401_jpg.rf.4f7bfb9d1c1a6c436549cd2898035b62.jpg": {
+        "image_name": "vis_low_gss1401_jpg.rf.4f7bfb9d1c1a6c436549cd2898035b62.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.6803,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3333
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1409_jpg.rf.908589d3059702c2a56b224a3b6e67cc.jpg": {
+        "image_name": "vis_low_gss1409_jpg.rf.908589d3059702c2a56b224a3b6e67cc.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.8735,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.2421
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1435_jpg.rf.814956cc92b3f8f6f4edf275ce57e0dd.jpg": {
+        "image_name": "vis_low_gss1435_jpg.rf.814956cc92b3f8f6f4edf275ce57e0dd.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.55,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.2547
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1453_jpg.rf.acd3851415441b6b4561d567e70d048d.jpg": {
+        "image_name": "vis_low_gss1453_jpg.rf.acd3851415441b6b4561d567e70d048d.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3534,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.306
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1454_jpg.rf.31eaa0ba09979a5621252beb092d2a3f.jpg": {
+        "image_name": "vis_low_gss1454_jpg.rf.31eaa0ba09979a5621252beb092d2a3f.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.5514,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.2038
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1458_jpg.rf.58b58e8a1e5cecd1702517ba2dca498e.jpg": {
+        "image_name": "vis_low_gss1458_jpg.rf.58b58e8a1e5cecd1702517ba2dca498e.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.7127,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.2237
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1460_jpg.rf.c7eb2418f95da81283590aa22320aad0.jpg": {
+        "image_name": "vis_low_gss1460_jpg.rf.c7eb2418f95da81283590aa22320aad0.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.7734,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3362
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1479_jpg.rf.036dc758b8b1247efab2d1b9fb941918.jpg": {
+        "image_name": "vis_low_gss1479_jpg.rf.036dc758b8b1247efab2d1b9fb941918.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.5525,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.2126
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1492_jpg.rf.6f234a64420c94c63c8f46bb1b6b43c9.jpg": {
+        "image_name": "vis_low_gss1492_jpg.rf.6f234a64420c94c63c8f46bb1b6b43c9.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.9311,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.2257
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1494_jpg.rf.1d2c5f221fa80b7f00ba1e815e5df117.jpg": {
+        "image_name": "vis_low_gss1494_jpg.rf.1d2c5f221fa80b7f00ba1e815e5df117.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.8842,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.2691
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1500_jpg.rf.5053234902b615d9eedb3f5728da1fd1.jpg": {
+        "image_name": "vis_low_gss1500_jpg.rf.5053234902b615d9eedb3f5728da1fd1.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.8557,
+            "activity": "active movement",
+            "activity_confidence": 0.2114
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1512_jpg.rf.2c6e4d332764e009b37912898d7445b5.jpg": {
+        "image_name": "vis_low_gss1512_jpg.rf.2c6e4d332764e009b37912898d7445b5.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4578,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.2852
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss151_jpg.rf.05d3010a8e1170c98790c8fce54bf361.jpg": {
+        "image_name": "vis_low_gss151_jpg.rf.05d3010a8e1170c98790c8fce54bf361.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.8137,
+            "activity": "active movement",
+            "activity_confidence": 0.29
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1534_jpg.rf.9181c22f9f25d785d72b6857d9739153.jpg": {
+        "image_name": "vis_low_gss1534_jpg.rf.9181c22f9f25d785d72b6857d9739153.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.6528,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.2795
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1544_jpg.rf.63f7a4db40309f83b79151f460d61e9c.jpg": {
+        "image_name": "vis_low_gss1544_jpg.rf.63f7a4db40309f83b79151f460d61e9c.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3085,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.289
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1546_jpg.rf.4e98c31ea8cf5fb6230fb14fb699c389.jpg": {
+        "image_name": "vis_low_gss1546_jpg.rf.4e98c31ea8cf5fb6230fb14fb699c389.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.3044,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.27
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss154_jpg.rf.7623db2531a9058876cfcb60ca06613f.jpg": {
+        "image_name": "vis_low_gss154_jpg.rf.7623db2531a9058876cfcb60ca06613f.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.8849,
+            "activity": "active movement",
+            "activity_confidence": 0.2466
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1553_jpg.rf.7d49d12f385451b8653ce13121f56c94.jpg": {
+        "image_name": "vis_low_gss1553_jpg.rf.7d49d12f385451b8653ce13121f56c94.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    576,
+                    833,
+                    669,
+                    905
+                ],
+                "score": 0.33511194586753845,
+                "label": "bird"
+            }
+        ],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.4377,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.328
+        },
+        "priority": {
+            "score": 50,
+            "tier": "P2",
+            "reason": "Distress signal detected, multiple subjects (1)."
+        }
+    },
+    "vis_low_gss1561_jpg.rf.0d61302a806a29e3debaa64577e81039.jpg": {
+        "image_name": "vis_low_gss1561_jpg.rf.0d61302a806a29e3debaa64577e81039.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "steep_or_uneven",
+            "terrain_confidence": 0.3733,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3692
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1571_jpg.rf.5374eeb0b7e0ef3a522b7786fa5a59bd.jpg": {
+        "image_name": "vis_low_gss1571_jpg.rf.5374eeb0b7e0ef3a522b7786fa5a59bd.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.5217,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3436
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1594_jpg.rf.1f5d3e162580a7e4beca43c0b85e89e6.jpg": {
+        "image_name": "vis_low_gss1594_jpg.rf.1f5d3e162580a7e4beca43c0b85e89e6.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.383,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2307
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1647_jpg.rf.d1bb8449c090f3c249a103c74c9bd400.jpg": {
+        "image_name": "vis_low_gss1647_jpg.rf.d1bb8449c090f3c249a103c74c9bd400.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.5995,
+            "activity": "active movement",
+            "activity_confidence": 0.2794
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss164_jpg.rf.324c736273fbb4edc0cb1ad9c078a5e0.jpg": {
+        "image_name": "vis_low_gss164_jpg.rf.324c736273fbb4edc0cb1ad9c078a5e0.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.7641,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.3106
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1650_jpg.rf.8f57eb7eb065b50766529c0cf2b5fa79.jpg": {
+        "image_name": "vis_low_gss1650_jpg.rf.8f57eb7eb065b50766529c0cf2b5fa79.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.5639,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3298
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1651_jpg.rf.96ed9c3aae807a9cca081a3863753bfd.jpg": {
+        "image_name": "vis_low_gss1651_jpg.rf.96ed9c3aae807a9cca081a3863753bfd.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.4971,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3748
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss165_jpg.rf.ef0d173693fb3faae12e282a4a02ae33.jpg": {
+        "image_name": "vis_low_gss165_jpg.rf.ef0d173693fb3faae12e282a4a02ae33.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.7187,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.3167
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1667_jpg.rf.6e59ffe3c18a40fd829c77e7edea16e5.jpg": {
+        "image_name": "vis_low_gss1667_jpg.rf.6e59ffe3c18a40fd829c77e7edea16e5.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4783,
+            "activity": "active movement",
+            "activity_confidence": 0.407
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1677_jpg.rf.6ad39a5c8f0f7f0cad5037a405a60fd9.jpg": {
+        "image_name": "vis_low_gss1677_jpg.rf.6ad39a5c8f0f7f0cad5037a405a60fd9.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.6209,
+            "activity": "active movement",
+            "activity_confidence": 0.226
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1681_jpg.rf.cc56ce740b1b813ac8092ccd6d794ae0.jpg": {
+        "image_name": "vis_low_gss1681_jpg.rf.cc56ce740b1b813ac8092ccd6d794ae0.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4288,
+            "activity": "active movement",
+            "activity_confidence": 0.2721
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1708_jpg.rf.430842cc92387b94657bc6bf3458ab3a.jpg": {
+        "image_name": "vis_low_gss1708_jpg.rf.430842cc92387b94657bc6bf3458ab3a.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3582,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.2353
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss174_jpg.rf.4e274fc57cc50b01047342b58e6bd522.jpg": {
+        "image_name": "vis_low_gss174_jpg.rf.4e274fc57cc50b01047342b58e6bd522.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.8183,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3077
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1760_jpg.rf.8c22de3633a23041b9ea52de9078af22.jpg": {
+        "image_name": "vis_low_gss1760_jpg.rf.8c22de3633a23041b9ea52de9078af22.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "steep_or_uneven",
+            "terrain_confidence": 0.3999,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3166
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss177_jpg.rf.c60a300122df7dd42531c60d2da29835.jpg": {
+        "image_name": "vis_low_gss177_jpg.rf.c60a300122df7dd42531c60d2da29835.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.9311,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.3192
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1795_jpg.rf.dc420aa2cb5f953da1ef51e9208cec4b.jpg": {
+        "image_name": "vis_low_gss1795_jpg.rf.dc420aa2cb5f953da1ef51e9208cec4b.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.5661,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.4515
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1826_jpg.rf.7dc60148b63e7c95d0653df172c5fa29.jpg": {
+        "image_name": "vis_low_gss1826_jpg.rf.7dc60148b63e7c95d0653df172c5fa29.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.37,
+            "activity": "active movement",
+            "activity_confidence": 0.2598
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1841_jpg.rf.453717a03d25283860c71d292171e7c1.jpg": {
+        "image_name": "vis_low_gss1841_jpg.rf.453717a03d25283860c71d292171e7c1.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.718,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3493
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1842_jpg.rf.1cf33ddcf2539a836289109a02e76c41.jpg": {
+        "image_name": "vis_low_gss1842_jpg.rf.1cf33ddcf2539a836289109a02e76c41.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.7904,
+            "activity": "active movement",
+            "activity_confidence": 0.2281
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1844_jpg.rf.4b0d7b7382a3cc43293b6787b8f807f7.jpg": {
+        "image_name": "vis_low_gss1844_jpg.rf.4b0d7b7382a3cc43293b6787b8f807f7.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4378,
+            "activity": "active movement",
+            "activity_confidence": 0.2165
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1846_jpg.rf.5149693eaecbb036b7c59ead34d1e64c.jpg": {
+        "image_name": "vis_low_gss1846_jpg.rf.5149693eaecbb036b7c59ead34d1e64c.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.6082,
+            "activity": "active movement",
+            "activity_confidence": 0.3538
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1849_jpg.rf.e026f1425d7903ccc8bf885933794dbd.jpg": {
+        "image_name": "vis_low_gss1849_jpg.rf.e026f1425d7903ccc8bf885933794dbd.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.3145,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3182
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1851_jpg.rf.392b3d10833a1e60d188c732ac427b40.jpg": {
+        "image_name": "vis_low_gss1851_jpg.rf.392b3d10833a1e60d188c732ac427b40.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.3918,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3575
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss1860_jpg.rf.4e8ec6636e8b4529a0ea131213ed2dd7.jpg": {
+        "image_name": "vis_low_gss1860_jpg.rf.4e8ec6636e8b4529a0ea131213ed2dd7.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.5265,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.274
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss186_jpg.rf.6a6f01f56d4f68934aa2de8e003a5da2.jpg": {
+        "image_name": "vis_low_gss186_jpg.rf.6a6f01f56d4f68934aa2de8e003a5da2.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.755,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.2891
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss196_jpg.rf.24e53ac25075ef9bd9dbca92ec2d0ac2.jpg": {
+        "image_name": "vis_low_gss196_jpg.rf.24e53ac25075ef9bd9dbca92ec2d0ac2.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.3678,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.2309
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss2001_jpg.rf.1f10c5eba7bf6b5763b03c254ba476b2.jpg": {
+        "image_name": "vis_low_gss2001_jpg.rf.1f10c5eba7bf6b5763b03c254ba476b2.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1317,
+                    510,
+                    1518,
+                    651
+                ],
+                "score": 0.29499876499176025,
+                "label": "bird"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4811,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.5086
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (1)."
+        }
+    },
+    "vis_low_gss2004_jpg.rf.059c9fdeb6537418fd00e08fdb5d91c9.jpg": {
+        "image_name": "vis_low_gss2004_jpg.rf.059c9fdeb6537418fd00e08fdb5d91c9.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1312,
+                    528,
+                    1511,
+                    667
+                ],
+                "score": 0.6804794669151306,
+                "label": "bird"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4618,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.4444
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (1)."
+        }
+    },
+    "vis_low_gss2030_jpg.rf.0569316ea1b36105f9092876239a3fa7.jpg": {
+        "image_name": "vis_low_gss2030_jpg.rf.0569316ea1b36105f9092876239a3fa7.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.8676,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.3155
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss218_jpg.rf.a827f432bebb22bb6eacd9fcb6367a38.jpg": {
+        "image_name": "vis_low_gss218_jpg.rf.a827f432bebb22bb6eacd9fcb6367a38.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4972,
+            "activity": "active movement",
+            "activity_confidence": 0.2822
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss219_jpg.rf.d4a10fe8c80ce46dde2d1c3830d26fe9.jpg": {
+        "image_name": "vis_low_gss219_jpg.rf.d4a10fe8c80ce46dde2d1c3830d26fe9.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.398,
+            "activity": "active movement",
+            "activity_confidence": 0.2744
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss220_jpg.rf.aef2e7cc985be8e1611816313dfb48f1.jpg": {
+        "image_name": "vis_low_gss220_jpg.rf.aef2e7cc985be8e1611816313dfb48f1.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.445,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.2565
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss254_jpg.rf.f0f2f1b9889a0ad8a5c3af16edd6420d.jpg": {
+        "image_name": "vis_low_gss254_jpg.rf.f0f2f1b9889a0ad8a5c3af16edd6420d.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.8814,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.3025
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss25_jpg.rf.7ec23177cdb5fa6c36afc72c27218414.jpg": {
+        "image_name": "vis_low_gss25_jpg.rf.7ec23177cdb5fa6c36afc72c27218414.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.952,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.3844
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss269_jpg.rf.9070625150a15e1a8d36c9c23891a8a7.jpg": {
+        "image_name": "vis_low_gss269_jpg.rf.9070625150a15e1a8d36c9c23891a8a7.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.7984,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.3164
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss283_jpg.rf.1123c7f955fb00ccf5a67ba913b5f8de.jpg": {
+        "image_name": "vis_low_gss283_jpg.rf.1123c7f955fb00ccf5a67ba913b5f8de.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.6203,
+            "activity": "active movement",
+            "activity_confidence": 0.2409
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss300_jpg.rf.4db18b0b1bb80b2110b7b5ae5d8026ad.jpg": {
+        "image_name": "vis_low_gss300_jpg.rf.4db18b0b1bb80b2110b7b5ae5d8026ad.jpg",
+        "num_objects": 3,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    43,
+                    141,
+                    119,
+                    233
+                ],
+                "score": 0.5953989624977112,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    1678,
+                    184,
+                    1793,
+                    251
+                ],
+                "score": 0.47535377740859985,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    1853,
+                    331,
+                    1919,
+                    404
+                ],
+                "score": 0.4174916446208954,
+                "label": "bird"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.615,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.2613
+        },
+        "priority": {
+            "score": 70,
+            "tier": "P1",
+            "reason": "Distress signal detected, multiple subjects (3)."
+        }
+    },
+    "vis_low_gss30_jpg.rf.abf43f34f4dcb047baf089e087e2f799.jpg": {
+        "image_name": "vis_low_gss30_jpg.rf.abf43f34f4dcb047baf089e087e2f799.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.9216,
+            "activity": "active movement",
+            "activity_confidence": 0.2515
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss323_jpg.rf.a6764179f23711079eb328b67b4f3c10.jpg": {
+        "image_name": "vis_low_gss323_jpg.rf.a6764179f23711079eb328b67b4f3c10.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1639,
+                    62,
+                    1701,
+                    141
+                ],
+                "score": 0.37498316168785095,
+                "label": "bird"
+            }
+        ],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.4902,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.29
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (1)."
+        }
+    },
+    "vis_low_gss32_jpg.rf.fe0ce854b02611c0a488e6fec5d411d2.jpg": {
+        "image_name": "vis_low_gss32_jpg.rf.fe0ce854b02611c0a488e6fec5d411d2.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.6951,
+            "activity": "active movement",
+            "activity_confidence": 0.2349
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss344_jpg.rf.bee1b44e8af9aa704bbd4a8a349b839f.jpg": {
+        "image_name": "vis_low_gss344_jpg.rf.bee1b44e8af9aa704bbd4a8a349b839f.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1533,
+                    280,
+                    1603,
+                    368
+                ],
+                "score": 0.5166786909103394,
+                "label": "bird"
+            }
+        ],
+        "scene": {
+            "terrain": "water_or_wet",
+            "terrain_confidence": 0.4309,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2476
+        },
+        "priority": {
+            "score": 60,
+            "tier": "P2",
+            "reason": "Lying down posture detected, hazardous terrain (water_or_wet), multiple subjects (1)."
+        }
+    },
+    "vis_low_gss345_jpg.rf.3f18e581600e1d79d93512b13ff224b5.jpg": {
+        "image_name": "vis_low_gss345_jpg.rf.3f18e581600e1d79d93512b13ff224b5.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1539,
+                    296,
+                    1645,
+                    388
+                ],
+                "score": 0.38896670937538147,
+                "label": "bird"
+            }
+        ],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3764,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2203
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (1)."
+        }
+    },
+    "vis_low_gss378_jpg.rf.2cf253a34add78632c5ceb80498650b1.jpg": {
+        "image_name": "vis_low_gss378_jpg.rf.2cf253a34add78632c5ceb80498650b1.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.449,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.2539
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss37_jpg.rf.04243565a36c86c2f0dcd48e30781fbb.jpg": {
+        "image_name": "vis_low_gss37_jpg.rf.04243565a36c86c2f0dcd48e30781fbb.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.6105,
+            "activity": "active movement",
+            "activity_confidence": 0.3501
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss406_jpg.rf.8caacc1b882551433564988146b9784e.jpg": {
+        "image_name": "vis_low_gss406_jpg.rf.8caacc1b882551433564988146b9784e.jpg",
+        "num_objects": 2,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1288,
+                    482,
+                    1335,
+                    548
+                ],
+                "score": 0.4424290060997009,
+                "label": "cow"
+            },
+            {
+                "bbox_xyxy": [
+                    1888,
+                    503,
+                    1919,
+                    573
+                ],
+                "score": 0.29081839323043823,
+                "label": "cow"
+            }
+        ],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3161,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.3946
+        },
+        "priority": {
+            "score": 50,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (2)."
+        }
+    },
+    "vis_low_gss40_jpg.rf.644b5330c5316e4ecfcf4ac506a2630a.jpg": {
+        "image_name": "vis_low_gss40_jpg.rf.644b5330c5316e4ecfcf4ac506a2630a.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.6329,
+            "activity": "active movement",
+            "activity_confidence": 0.2379
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss420_jpg.rf.9d2e25289549387b0bed4ab0474abbfc.jpg": {
+        "image_name": "vis_low_gss420_jpg.rf.9d2e25289549387b0bed4ab0474abbfc.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.4463,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.4376
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss428_jpg.rf.6b77c21885a263c6b0385da9690fb959.jpg": {
+        "image_name": "vis_low_gss428_jpg.rf.6b77c21885a263c6b0385da9690fb959.jpg",
+        "num_objects": 2,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    775,
+                    503,
+                    840,
+                    560
+                ],
+                "score": 0.28685739636421204,
+                "label": "cow"
+            },
+            {
+                "bbox_xyxy": [
+                    793,
+                    504,
+                    840,
+                    558
+                ],
+                "score": 0.27137818932533264,
+                "label": "cow"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.5164,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.4278
+        },
+        "priority": {
+            "score": 50,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (2)."
+        }
+    },
+    "vis_low_gss437_jpg.rf.ff6f0dac494960718727b61993dd8e60.jpg": {
+        "image_name": "vis_low_gss437_jpg.rf.ff6f0dac494960718727b61993dd8e60.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3774,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.2422
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss438_jpg.rf.e97d8d694b8bbae9794a7fffb8becac1.jpg": {
+        "image_name": "vis_low_gss438_jpg.rf.e97d8d694b8bbae9794a7fffb8becac1.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.409,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.2269
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss439_jpg.rf.41882a60083387cd924f0855971de7db.jpg": {
+        "image_name": "vis_low_gss439_jpg.rf.41882a60083387cd924f0855971de7db.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.3498,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.2056
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss449_jpg.rf.5dab59838187aa4967c9230234882574.jpg": {
+        "image_name": "vis_low_gss449_jpg.rf.5dab59838187aa4967c9230234882574.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "steep_or_uneven",
+            "terrain_confidence": 0.4132,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.2699
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss453_jpg.rf.d9fbe92afacf9db7847c295481327927.jpg": {
+        "image_name": "vis_low_gss453_jpg.rf.d9fbe92afacf9db7847c295481327927.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.5004,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2856
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss45_jpg.rf.9b4414fd608918f0069178270d15792d.jpg": {
+        "image_name": "vis_low_gss45_jpg.rf.9b4414fd608918f0069178270d15792d.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.6755,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.2351
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss466_jpg.rf.f2dc32fcd95fc87adcea87f1715b609d.jpg": {
+        "image_name": "vis_low_gss466_jpg.rf.f2dc32fcd95fc87adcea87f1715b609d.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    961,
+                    474,
+                    1056,
+                    543
+                ],
+                "score": 0.4471181035041809,
+                "label": "bird"
+            }
+        ],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.4027,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.363
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (1)."
+        }
+    },
+    "vis_low_gss46_jpg.rf.2fdb850a1e05fa606a6ccb2dcfb077c8.jpg": {
+        "image_name": "vis_low_gss46_jpg.rf.2fdb850a1e05fa606a6ccb2dcfb077c8.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.5968,
+            "activity": "active movement",
+            "activity_confidence": 0.2749
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss474_jpg.rf.b544553e5184b04cebd6d0b5efa33315.jpg": {
+        "image_name": "vis_low_gss474_jpg.rf.b544553e5184b04cebd6d0b5efa33315.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.5301,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.4193
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss48_jpg.rf.a2c0f0c96c37c01a79305aad5b28edb5.jpg": {
+        "image_name": "vis_low_gss48_jpg.rf.a2c0f0c96c37c01a79305aad5b28edb5.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.7083,
+            "activity": "active movement",
+            "activity_confidence": 0.2528
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss502_jpg.rf.2332f3400704fdda4757c00916f5bb28.jpg": {
+        "image_name": "vis_low_gss502_jpg.rf.2332f3400704fdda4757c00916f5bb28.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1296,
+                    339,
+                    1335,
+                    376
+                ],
+                "score": 0.2701966464519501,
+                "label": "bird"
+            }
+        ],
+        "scene": {
+            "terrain": "water_or_wet",
+            "terrain_confidence": 0.545,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.2023
+        },
+        "priority": {
+            "score": 30,
+            "tier": "P3",
+            "reason": "Hazardous terrain (water_or_wet), multiple subjects (1)."
+        }
+    },
+    "vis_low_gss506_jpg.rf.c39464832d2b93e2ee9374475a4a89d0.jpg": {
+        "image_name": "vis_low_gss506_jpg.rf.c39464832d2b93e2ee9374475a4a89d0.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1199,
+                    483,
+                    1245,
+                    522
+                ],
+                "score": 0.3412511646747589,
+                "label": "bird"
+            }
+        ],
+        "scene": {
+            "terrain": "water_or_wet",
+            "terrain_confidence": 0.3879,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.1901
+        },
+        "priority": {
+            "score": 30,
+            "tier": "P3",
+            "reason": "Hazardous terrain (water_or_wet), multiple subjects (1)."
+        }
+    },
+    "vis_low_gss510_jpg.rf.66180af01e75891da4e6dc2c18a070bd.jpg": {
+        "image_name": "vis_low_gss510_jpg.rf.66180af01e75891da4e6dc2c18a070bd.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "water_or_wet",
+            "terrain_confidence": 0.4046,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.2903
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss514_jpg.rf.6f57b2a006650e98d108e48ef8aad930.jpg": {
+        "image_name": "vis_low_gss514_jpg.rf.6f57b2a006650e98d108e48ef8aad930.jpg",
+        "num_objects": 2,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    922,
+                    672,
+                    967,
+                    711
+                ],
+                "score": 0.30591756105422974,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    672,
+                    412,
+                    702,
+                    448
+                ],
+                "score": 0.29793110489845276,
+                "label": "cow"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4902,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.3134
+        },
+        "priority": {
+            "score": 20,
+            "tier": "P3",
+            "reason": "Multiple subjects (2)."
+        }
+    },
+    "vis_low_gss520_jpg.rf.b481f561d12fbade58afe337aed8a00f.jpg": {
+        "image_name": "vis_low_gss520_jpg.rf.b481f561d12fbade58afe337aed8a00f.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3337,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.217
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss528_jpg.rf.1549de9a8e2c9a2b7d8d2ae34aeabb19.jpg": {
+        "image_name": "vis_low_gss528_jpg.rf.1549de9a8e2c9a2b7d8d2ae34aeabb19.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3912,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.2236
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss531_jpg.rf.9e7caa68afd971068da145ab4cd4a629.jpg": {
+        "image_name": "vis_low_gss531_jpg.rf.9e7caa68afd971068da145ab4cd4a629.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3764,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.3163
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss533_jpg.rf.7383a693ea85e08dec4d6a3a8835b606.jpg": {
+        "image_name": "vis_low_gss533_jpg.rf.7383a693ea85e08dec4d6a3a8835b606.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4323,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.3356
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss539_jpg.rf.780a2c3118fc8c97ddf18da1a05367a7.jpg": {
+        "image_name": "vis_low_gss539_jpg.rf.780a2c3118fc8c97ddf18da1a05367a7.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.414,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.3458
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss541_jpg.rf.eeeff0dcc238a82e539fce00bf71fb58.jpg": {
+        "image_name": "vis_low_gss541_jpg.rf.eeeff0dcc238a82e539fce00bf71fb58.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3475,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.2704
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss545_jpg.rf.6c20d98b8bc07d40b6c2e90d6fdfa609.jpg": {
+        "image_name": "vis_low_gss545_jpg.rf.6c20d98b8bc07d40b6c2e90d6fdfa609.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.362,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.3315
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss551_jpg.rf.9754acc478cb7c3493c54871e20db9c3.jpg": {
+        "image_name": "vis_low_gss551_jpg.rf.9754acc478cb7c3493c54871e20db9c3.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    403,
+                    583,
+                    499,
+                    645
+                ],
+                "score": 0.31836843490600586,
+                "label": "cow"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.3299,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.3709
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (1)."
+        }
+    },
+    "vis_low_gss587_jpg.rf.984a9db301b19cc161bfe877cca271bd.jpg": {
+        "image_name": "vis_low_gss587_jpg.rf.984a9db301b19cc161bfe877cca271bd.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.3008,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2987
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss602_jpg.rf.4033b04354b3896077b2ca5185b75477.jpg": {
+        "image_name": "vis_low_gss602_jpg.rf.4033b04354b3896077b2ca5185b75477.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.3909,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.3027
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss60_jpg.rf.33acc6f8f8c891a60a547ce054ea2e5d.jpg": {
+        "image_name": "vis_low_gss60_jpg.rf.33acc6f8f8c891a60a547ce054ea2e5d.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.3878,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.215
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss616_jpg.rf.ea0ffdf001c2a500f183aede077efc38.jpg": {
+        "image_name": "vis_low_gss616_jpg.rf.ea0ffdf001c2a500f183aede077efc38.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.5195,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.3466
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss629_jpg.rf.b00d2019bdda97ce47b7c458caa0b1ff.jpg": {
+        "image_name": "vis_low_gss629_jpg.rf.b00d2019bdda97ce47b7c458caa0b1ff.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3971,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.2546
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss635_jpg.rf.0ac3d0b955fc1057ac9c519c234626aa.jpg": {
+        "image_name": "vis_low_gss635_jpg.rf.0ac3d0b955fc1057ac9c519c234626aa.jpg",
+        "num_objects": 3,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    622,
+                    535,
+                    655,
+                    585
+                ],
+                "score": 0.39702108502388,
+                "label": "horse"
+            },
+            {
+                "bbox_xyxy": [
+                    160,
+                    644,
+                    264,
+                    697
+                ],
+                "score": 0.3312140107154846,
+                "label": "cow"
+            },
+            {
+                "bbox_xyxy": [
+                    621,
+                    534,
+                    654,
+                    585
+                ],
+                "score": 0.28791695833206177,
+                "label": "cow"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4412,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.3583
+        },
+        "priority": {
+            "score": 60,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (3)."
+        }
+    },
+    "vis_low_gss642_jpg.rf.52acec1e73b9b481a26b39dc26e085c7.jpg": {
+        "image_name": "vis_low_gss642_jpg.rf.52acec1e73b9b481a26b39dc26e085c7.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    812,
+                    424,
+                    854,
+                    479
+                ],
+                "score": 0.3022066652774811,
+                "label": "cow"
+            }
+        ],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3013,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.4604
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (1)."
+        }
+    },
+    "vis_low_gss667_jpg.rf.951e4acea7973a694b4bdaa807f5ca94.jpg": {
+        "image_name": "vis_low_gss667_jpg.rf.951e4acea7973a694b4bdaa807f5ca94.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    212,
+                    624,
+                    316,
+                    730
+                ],
+                "score": 0.8106628656387329,
+                "label": "bird"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4574,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.307
+        },
+        "priority": {
+            "score": 10,
+            "tier": "P4",
+            "reason": "Multiple subjects (1)."
+        }
+    },
+    "vis_low_gss66_jpg.rf.920f95a7a409971460dd0276e631c14b.jpg": {
+        "image_name": "vis_low_gss66_jpg.rf.920f95a7a409971460dd0276e631c14b.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4415,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.2892
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss671_jpg.rf.2eb42b187b471bd59f4661db0c730088.jpg": {
+        "image_name": "vis_low_gss671_jpg.rf.2eb42b187b471bd59f4661db0c730088.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1777,
+                    507,
+                    1918,
+                    550
+                ],
+                "score": 0.2761971652507782,
+                "label": "cow"
+            }
+        ],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3187,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2371
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (1)."
+        }
+    },
+    "vis_low_gss673_jpg.rf.710661b34ba9cf22938c57aa0fbf3107.jpg": {
+        "image_name": "vis_low_gss673_jpg.rf.710661b34ba9cf22938c57aa0fbf3107.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    789,
+                    347,
+                    841,
+                    408
+                ],
+                "score": 0.264972984790802,
+                "label": "cow"
+            }
+        ],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3725,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.3732
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (1)."
+        }
+    },
+    "vis_low_gss689_jpg.rf.c0157bf66a605f40f50d950b08a52e71.jpg": {
+        "image_name": "vis_low_gss689_jpg.rf.c0157bf66a605f40f50d950b08a52e71.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.4538,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.309
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss712_jpg.rf.ba33a6ff31154dc9566f140e8344f5a1.jpg": {
+        "image_name": "vis_low_gss712_jpg.rf.ba33a6ff31154dc9566f140e8344f5a1.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    658,
+                    523,
+                    785,
+                    611
+                ],
+                "score": 0.4065486490726471,
+                "label": "bird"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4821,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.5621
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (1)."
+        }
+    },
+    "vis_low_gss721_jpg.rf.ca079d6575d89f0099f383df3c9de00b.jpg": {
+        "image_name": "vis_low_gss721_jpg.rf.ca079d6575d89f0099f383df3c9de00b.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "water_or_wet",
+            "terrain_confidence": 0.386,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.2937
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss739_jpg.rf.340e9aa91f6c6d1d3e6753b3e1fde02d.jpg": {
+        "image_name": "vis_low_gss739_jpg.rf.340e9aa91f6c6d1d3e6753b3e1fde02d.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.5896,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2961
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss753_jpg.rf.2a0d8224c5e6808d1e9e5db1801e0574.jpg": {
+        "image_name": "vis_low_gss753_jpg.rf.2a0d8224c5e6808d1e9e5db1801e0574.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    237,
+                    876,
+                    432,
+                    1006
+                ],
+                "score": 0.6263589262962341,
+                "label": "dog"
+            }
+        ],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.5974,
+            "activity": "active movement",
+            "activity_confidence": 0.2311
+        },
+        "priority": {
+            "score": 10,
+            "tier": "P4",
+            "reason": "Multiple subjects (1)."
+        }
+    },
+    "vis_low_gss761_jpg.rf.49c9ea3b6115665732bed47543676030.jpg": {
+        "image_name": "vis_low_gss761_jpg.rf.49c9ea3b6115665732bed47543676030.jpg",
+        "num_objects": 2,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    194,
+                    721,
+                    363,
+                    789
+                ],
+                "score": 0.5114032030105591,
+                "label": "cow"
+            },
+            {
+                "bbox_xyxy": [
+                    1322,
+                    367,
+                    1356,
+                    397
+                ],
+                "score": 0.481222540140152,
+                "label": "cow"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.5244,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2261
+        },
+        "priority": {
+            "score": 50,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (2)."
+        }
+    },
+    "vis_low_gss768_jpg.rf.8c401e5ba6ab65ba1583083ca5cf9a10.jpg": {
+        "image_name": "vis_low_gss768_jpg.rf.8c401e5ba6ab65ba1583083ca5cf9a10.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1221,
+                    416,
+                    1260,
+                    451
+                ],
+                "score": 0.370225191116333,
+                "label": "sheep"
+            }
+        ],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.49,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2788
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (1)."
+        }
+    },
+    "vis_low_gss777_jpg.rf.6a51e279865e7ceb7a0e0e72600278cd.jpg": {
+        "image_name": "vis_low_gss777_jpg.rf.6a51e279865e7ceb7a0e0e72600278cd.jpg",
+        "num_objects": 2,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1127,
+                    943,
+                    1221,
+                    1079
+                ],
+                "score": 0.39495599269866943,
+                "label": "bird"
+            },
+            {
+                "bbox_xyxy": [
+                    620,
+                    248,
+                    651,
+                    270
+                ],
+                "score": 0.25771239399909973,
+                "label": "cow"
+            }
+        ],
+        "scene": {
+            "terrain": "steep_or_uneven",
+            "terrain_confidence": 0.3721,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.3384
+        },
+        "priority": {
+            "score": 70,
+            "tier": "P1",
+            "reason": "Lying down posture detected, hazardous terrain (steep_or_uneven), multiple subjects (2)."
+        }
+    },
+    "vis_low_gss782_jpg.rf.65e0e95fb5125dc374bdc0a5be53d89c.jpg": {
+        "image_name": "vis_low_gss782_jpg.rf.65e0e95fb5125dc374bdc0a5be53d89c.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    584,
+                    252,
+                    614,
+                    300
+                ],
+                "score": 0.2742552161216736,
+                "label": "cow"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4009,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.2478
+        },
+        "priority": {
+            "score": 10,
+            "tier": "P4",
+            "reason": "Multiple subjects (1)."
+        }
+    },
+    "vis_low_gss798_jpg.rf.c3c67a85cc4dd31f8d65491cf6b53171.jpg": {
+        "image_name": "vis_low_gss798_jpg.rf.c3c67a85cc4dd31f8d65491cf6b53171.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "steep_or_uneven",
+            "terrain_confidence": 0.296,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.3169
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss803_jpg.rf.63d8e6cd87e8a29d54569eba1a4e45ba.jpg": {
+        "image_name": "vis_low_gss803_jpg.rf.63d8e6cd87e8a29d54569eba1a4e45ba.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    438,
+                    526,
+                    518,
+                    619
+                ],
+                "score": 0.42466649413108826,
+                "label": "bear"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.2735,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.4038
+        },
+        "priority": {
+            "score": 10,
+            "tier": "P4",
+            "reason": "Multiple subjects (1)."
+        }
+    },
+    "vis_low_gss845_jpg.rf.7663151b2c9fa7639e967db28c3620c1.jpg": {
+        "image_name": "vis_low_gss845_jpg.rf.7663151b2c9fa7639e967db28c3620c1.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1195,
+                    610,
+                    1311,
+                    694
+                ],
+                "score": 0.27952542901039124,
+                "label": "cow"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4183,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.4154
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (1)."
+        }
+    },
+    "vis_low_gss846_jpg.rf.201a2a2b8988c49c03932ae7f58d9d77.jpg": {
+        "image_name": "vis_low_gss846_jpg.rf.201a2a2b8988c49c03932ae7f58d9d77.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1198,
+                    576,
+                    1305,
+                    653
+                ],
+                "score": 0.3169885575771332,
+                "label": "dog"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.3499,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3291
+        },
+        "priority": {
+            "score": 50,
+            "tier": "P2",
+            "reason": "Distress signal detected, multiple subjects (1)."
+        }
+    },
+    "vis_low_gss90_jpg.rf.790a59d80bfad5b02787b119f23459be.jpg": {
+        "image_name": "vis_low_gss90_jpg.rf.790a59d80bfad5b02787b119f23459be.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.9706,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.4155
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss922_jpg.rf.abaec11ec93e5db6aa4501084eb1b62a.jpg": {
+        "image_name": "vis_low_gss922_jpg.rf.abaec11ec93e5db6aa4501084eb1b62a.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.5401,
+            "activity": "active movement",
+            "activity_confidence": 0.2787
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss929_jpg.rf.4a228afbb5780c382bad73357cca328b.jpg": {
+        "image_name": "vis_low_gss929_jpg.rf.4a228afbb5780c382bad73357cca328b.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.3843,
+            "activity": "active movement",
+            "activity_confidence": 0.5172
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss930_jpg.rf.827adc186882d910d0e7a525eeba1ce3.jpg": {
+        "image_name": "vis_low_gss930_jpg.rf.827adc186882d910d0e7a525eeba1ce3.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "water_or_wet",
+            "terrain_confidence": 0.4343,
+            "activity": "active movement",
+            "activity_confidence": 0.4715
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss932_jpg.rf.dfbce38b80f36d9434b41ecb3cb7d148.jpg": {
+        "image_name": "vis_low_gss932_jpg.rf.dfbce38b80f36d9434b41ecb3cb7d148.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "water_or_wet",
+            "terrain_confidence": 0.4519,
+            "activity": "active movement",
+            "activity_confidence": 0.5199
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss944_jpg.rf.2dc16b1f9e730587e8090cb3e5182a63.jpg": {
+        "image_name": "vis_low_gss944_jpg.rf.2dc16b1f9e730587e8090cb3e5182a63.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4396,
+            "activity": "active movement",
+            "activity_confidence": 0.4194
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss950_jpg.rf.8dfabe82f2228460acea71b0ae65950c.jpg": {
+        "image_name": "vis_low_gss950_jpg.rf.8dfabe82f2228460acea71b0ae65950c.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.515,
+            "activity": "active movement",
+            "activity_confidence": 0.3587
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss96_jpg.rf.588b820eee9ae18e1b24d67a6416c5e4.jpg": {
+        "image_name": "vis_low_gss96_jpg.rf.588b820eee9ae18e1b24d67a6416c5e4.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.9303,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3661
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_low_gss974_jpg.rf.fccd9d4c65783f85d9b7b68a2fb9b239.jpg": {
+        "image_name": "vis_low_gss974_jpg.rf.fccd9d4c65783f85d9b7b68a2fb9b239.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "water_or_wet",
+            "terrain_confidence": 0.7801,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.3702
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss1009_jpg.rf.011f90d6db5a951391df1e9048781547.jpg": {
+        "image_name": "vis_medium_gss1009_jpg.rf.011f90d6db5a951391df1e9048781547.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.8708,
+            "activity": "active movement",
+            "activity_confidence": 0.3118
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss1039_jpg.rf.88ea57b8beeddd5db86a59f86ca2e19c.jpg": {
+        "image_name": "vis_medium_gss1039_jpg.rf.88ea57b8beeddd5db86a59f86ca2e19c.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.8741,
+            "activity": "active movement",
+            "activity_confidence": 0.4608
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss1044_jpg.rf.7e4f64a4b315e1e50fdd298586428f05.jpg": {
+        "image_name": "vis_medium_gss1044_jpg.rf.7e4f64a4b315e1e50fdd298586428f05.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.7875,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.2076
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss1052_jpg.rf.5a093c93e851afc23a18915ce8cce97d.jpg": {
+        "image_name": "vis_medium_gss1052_jpg.rf.5a093c93e851afc23a18915ce8cce97d.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.7552,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.371
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss1056_jpg.rf.1a71cc5e12e0f677eea326d99769fbdd.jpg": {
+        "image_name": "vis_medium_gss1056_jpg.rf.1a71cc5e12e0f677eea326d99769fbdd.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.717,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.3388
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss1059_jpg.rf.15cdd4e373ceff7f41f400c8d361346b.jpg": {
+        "image_name": "vis_medium_gss1059_jpg.rf.15cdd4e373ceff7f41f400c8d361346b.jpg",
+        "num_objects": 2,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    762,
+                    448,
+                    795,
+                    514
+                ],
+                "score": 0.544508695602417,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    268,
+                    485,
+                    296,
+                    557
+                ],
+                "score": 0.5295988321304321,
+                "label": "person"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.562,
+            "activity": "active movement",
+            "activity_confidence": 0.35
+        },
+        "priority": {
+            "score": 20,
+            "tier": "P3",
+            "reason": "Multiple subjects (2)."
+        }
+    },
+    "vis_medium_gss1083_jpg.rf.9613355ccf17f105dc97280bd4c09148.jpg": {
+        "image_name": "vis_medium_gss1083_jpg.rf.9613355ccf17f105dc97280bd4c09148.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.7797,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.2578
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss1223_jpg.rf.6fbef6812b0d4718776f4eb6c36ca6d2.jpg": {
+        "image_name": "vis_medium_gss1223_jpg.rf.6fbef6812b0d4718776f4eb6c36ca6d2.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.7224,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.5324
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss1228_jpg.rf.70555cdde70b6512128cf1a5b56ed4d1.jpg": {
+        "image_name": "vis_medium_gss1228_jpg.rf.70555cdde70b6512128cf1a5b56ed4d1.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.6716,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.4129
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss1230_jpg.rf.c40b6dc257676bc8130caa02ff3b2b40.jpg": {
+        "image_name": "vis_medium_gss1230_jpg.rf.c40b6dc257676bc8130caa02ff3b2b40.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.7077,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.4006
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss1263_jpg.rf.a0b60ea1534e6f78d71c5699820fee79.jpg": {
+        "image_name": "vis_medium_gss1263_jpg.rf.a0b60ea1534e6f78d71c5699820fee79.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1368,
+                    593,
+                    1513,
+                    913
+                ],
+                "score": 0.8014264702796936,
+                "label": "person"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.5313,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.3566
+        },
+        "priority": {
+            "score": 10,
+            "tier": "P4",
+            "reason": "Multiple subjects (1)."
+        }
+    },
+    "vis_medium_gss1383_jpg.rf.b4034e52ba3e29c242329d887e9c2778.jpg": {
+        "image_name": "vis_medium_gss1383_jpg.rf.b4034e52ba3e29c242329d887e9c2778.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.3931,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.2783
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss15_jpg.rf.93e2d135bb61c49c92b9165ed3fe5cf9.jpg": {
+        "image_name": "vis_medium_gss15_jpg.rf.93e2d135bb61c49c92b9165ed3fe5cf9.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.7135,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.2401
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss1655_jpg.rf.d897bc196275074a63ed0da5927c1d98.jpg": {
+        "image_name": "vis_medium_gss1655_jpg.rf.d897bc196275074a63ed0da5927c1d98.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4894,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.4351
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss1730_jpg.rf.c600fc67cac2ae492bb907cc6725078d.jpg": {
+        "image_name": "vis_medium_gss1730_jpg.rf.c600fc67cac2ae492bb907cc6725078d.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "open_accessible",
+            "terrain_confidence": 0.3669,
+            "activity": "active movement",
+            "activity_confidence": 0.2286
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss1739_jpg.rf.06f9bf9f72b39b322c663baa62d55b13.jpg": {
+        "image_name": "vis_medium_gss1739_jpg.rf.06f9bf9f72b39b322c663baa62d55b13.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    604,
+                    500,
+                    678,
+                    595
+                ],
+                "score": 0.4384196698665619,
+                "label": "person"
+            }
+        ],
+        "scene": {
+            "terrain": "open_accessible",
+            "terrain_confidence": 0.3207,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2612
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (1)."
+        }
+    },
+    "vis_medium_gss1743_jpg.rf.220be25eb02b1d65f2ad4e3075afd019.jpg": {
+        "image_name": "vis_medium_gss1743_jpg.rf.220be25eb02b1d65f2ad4e3075afd019.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    703,
+                    251,
+                    773,
+                    417
+                ],
+                "score": 0.5124270915985107,
+                "label": "person"
+            }
+        ],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.223,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.3654
+        },
+        "priority": {
+            "score": 10,
+            "tier": "P4",
+            "reason": "Multiple subjects (1)."
+        }
+    },
+    "vis_medium_gss1833_jpg.rf.4c75ca9ae22c62481311faa299639eff.jpg": {
+        "image_name": "vis_medium_gss1833_jpg.rf.4c75ca9ae22c62481311faa299639eff.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "steep_or_uneven",
+            "terrain_confidence": 0.6922,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3456
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss1863_jpg.rf.4356de3c939fc46cf719ad8bbfb84de0.jpg": {
+        "image_name": "vis_medium_gss1863_jpg.rf.4356de3c939fc46cf719ad8bbfb84de0.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.2962,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.2953
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss1881_jpg.rf.d59988c8bbba5bc5497e22660e58e12f.jpg": {
+        "image_name": "vis_medium_gss1881_jpg.rf.d59988c8bbba5bc5497e22660e58e12f.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.5731,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.3292
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss1885_jpg.rf.d3e04346327b21a11ce8bba3662ae3f8.jpg": {
+        "image_name": "vis_medium_gss1885_jpg.rf.d3e04346327b21a11ce8bba3662ae3f8.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    691,
+                    671,
+                    733,
+                    704
+                ],
+                "score": 0.4473975896835327,
+                "label": "cow"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.7835,
+            "activity": "active movement",
+            "activity_confidence": 0.2591
+        },
+        "priority": {
+            "score": 10,
+            "tier": "P4",
+            "reason": "Multiple subjects (1)."
+        }
+    },
+    "vis_medium_gss1933_jpg.rf.849704026f64df7f8a6e429f8ba48e76.jpg": {
+        "image_name": "vis_medium_gss1933_jpg.rf.849704026f64df7f8a6e429f8ba48e76.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    535,
+                    364,
+                    718,
+                    469
+                ],
+                "score": 0.5226098299026489,
+                "label": "cow"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.5609,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.2931
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Lying down posture detected, multiple subjects (1)."
+        }
+    },
+    "vis_medium_gss2060_jpg.rf.46e8b03547bd4b9787da235e175a42df.jpg": {
+        "image_name": "vis_medium_gss2060_jpg.rf.46e8b03547bd4b9787da235e175a42df.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.8092,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.3034
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss211_jpg.rf.190f46ce8c1dd32498b28a5062bcb56f.jpg": {
+        "image_name": "vis_medium_gss211_jpg.rf.190f46ce8c1dd32498b28a5062bcb56f.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.337,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3319
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss239_jpg.rf.bf8c5d6e1af879d336dddfa66b8762fc.jpg": {
+        "image_name": "vis_medium_gss239_jpg.rf.bf8c5d6e1af879d336dddfa66b8762fc.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.3779,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.3378
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss244_jpg.rf.b3486033e5b94ecd3f6aa6f960cf005f.jpg": {
+        "image_name": "vis_medium_gss244_jpg.rf.b3486033e5b94ecd3f6aa6f960cf005f.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "rocky_rubble",
+            "terrain_confidence": 0.6997,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.2731
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss317_jpg.rf.d1176868e52bb7aa8114f8f1e4ae45ea.jpg": {
+        "image_name": "vis_medium_gss317_jpg.rf.d1176868e52bb7aa8114f8f1e4ae45ea.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.3811,
+            "activity": "possible distressed or injured posture",
+            "activity_confidence": 0.212
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss368_jpg.rf.84a7d6ba8599e8c6dab9d66ec5b60dc3.jpg": {
+        "image_name": "vis_medium_gss368_jpg.rf.84a7d6ba8599e8c6dab9d66ec5b60dc3.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.3328,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.3595
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss392_jpg.rf.df8744364e404a5328169f1f21703708.jpg": {
+        "image_name": "vis_medium_gss392_jpg.rf.df8744364e404a5328169f1f21703708.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4162,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.3005
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss393_jpg.rf.d93f8e19bf687d187798b642d0bbf6c9.jpg": {
+        "image_name": "vis_medium_gss393_jpg.rf.d93f8e19bf687d187798b642d0bbf6c9.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.356,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.3164
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss397_jpg.rf.77393c2c8d0358f46d4c699d16fb0c12.jpg": {
+        "image_name": "vis_medium_gss397_jpg.rf.77393c2c8d0358f46d4c699d16fb0c12.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.3798,
+            "activity": "a seated person or animal",
+            "activity_confidence": 0.3704
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss400_jpg.rf.699147fbc07804d185ade87b155d3f4c.jpg": {
+        "image_name": "vis_medium_gss400_jpg.rf.699147fbc07804d185ade87b155d3f4c.jpg",
+        "num_objects": 0,
+        "detections": [],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.3308,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.383
+        },
+        "priority": {
+            "score": 0,
+            "tier": "P4",
+            "reason": "No objects detected."
+        }
+    },
+    "vis_medium_gss701_jpg.rf.266d97db966b896d3573e3156bbe4e4c.jpg": {
+        "image_name": "vis_medium_gss701_jpg.rf.266d97db966b896d3573e3156bbe4e4c.jpg",
+        "num_objects": 2,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    1168,
+                    366,
+                    1212,
+                    456
+                ],
+                "score": 0.5813286304473877,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    1163,
+                    340,
+                    1219,
+                    456
+                ],
+                "score": 0.3586995601654053,
+                "label": "person"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4578,
+            "activity": "a walking person or animal",
+            "activity_confidence": 0.2973
+        },
+        "priority": {
+            "score": 20,
+            "tier": "P3",
+            "reason": "Multiple subjects (2)."
+        }
+    },
+    "vis_medium_gss825_jpg.rf.f67f0380f0c40636ab727cd8b7eaa8ce.jpg": {
+        "image_name": "vis_medium_gss825_jpg.rf.f67f0380f0c40636ab727cd8b7eaa8ce.jpg",
+        "num_objects": 3,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    698,
+                    273,
+                    720,
+                    323
+                ],
+                "score": 0.5670247077941895,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    639,
+                    275,
+                    668,
+                    342
+                ],
+                "score": 0.5037373900413513,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    796,
+                    262,
+                    825,
+                    325
+                ],
+                "score": 0.46665048599243164,
+                "label": "person"
+            }
+        ],
+        "scene": {
+            "terrain": "road_or_trail",
+            "terrain_confidence": 0.4159,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.2694
+        },
+        "priority": {
+            "score": 30,
+            "tier": "P3",
+            "reason": "Multiple subjects (3)."
+        }
+    },
+    "vis_medium_gss872_jpg.rf.edc64e64962c97bd821408d1f2d4717c.jpg": {
+        "image_name": "vis_medium_gss872_jpg.rf.edc64e64962c97bd821408d1f2d4717c.jpg",
+        "num_objects": 3,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    381,
+                    236,
+                    409,
+                    298
+                ],
+                "score": 0.2861817181110382,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    140,
+                    267,
+                    204,
+                    381
+                ],
+                "score": 0.27813413739204407,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    378,
+                    213,
+                    409,
+                    297
+                ],
+                "score": 0.27573534846305847,
+                "label": "person"
+            }
+        ],
+        "scene": {
+            "terrain": "dense_vegetation",
+            "terrain_confidence": 0.4964,
+            "activity": "active movement",
+            "activity_confidence": 0.2229
+        },
+        "priority": {
+            "score": 30,
+            "tier": "P3",
+            "reason": "Multiple subjects (3)."
+        }
+    },
+    "vis_medium_gss881_jpg.rf.c78c3715841b748a3a6eaefd25cbad97.jpg": {
+        "image_name": "vis_medium_gss881_jpg.rf.c78c3715841b748a3a6eaefd25cbad97.jpg",
+        "num_objects": 2,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    480,
+                    291,
+                    524,
+                    406
+                ],
+                "score": 0.6046639084815979,
+                "label": "person"
+            },
+            {
+                "bbox_xyxy": [
+                    430,
+                    338,
+                    459,
+                    420
+                ],
+                "score": 0.3577660620212555,
+                "label": "person"
+            }
+        ],
+        "scene": {
+            "terrain": "water_or_wet",
+            "terrain_confidence": 0.3627,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.4545
+        },
+        "priority": {
+            "score": 40,
+            "tier": "P2",
+            "reason": "Hazardous terrain (water_or_wet), multiple subjects (2)."
+        }
+    },
+    "vis_medium_gss882_jpg.rf.a94b5dd40ffea05bf305198710aee9d0.jpg": {
+        "image_name": "vis_medium_gss882_jpg.rf.a94b5dd40ffea05bf305198710aee9d0.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    484,
+                    312,
+                    528,
+                    440
+                ],
+                "score": 0.320035457611084,
+                "label": "person"
+            }
+        ],
+        "scene": {
+            "terrain": "water_or_wet",
+            "terrain_confidence": 0.3364,
+            "activity": "a running person or animal",
+            "activity_confidence": 0.3604
+        },
+        "priority": {
+            "score": 30,
+            "tier": "P3",
+            "reason": "Hazardous terrain (water_or_wet), multiple subjects (1)."
+        }
+    },
+    "vis_medium_gss973_jpg.rf.fa8232c6bfd9584e4e0e008f94b981de.jpg": {
+        "image_name": "vis_medium_gss973_jpg.rf.fa8232c6bfd9584e4e0e008f94b981de.jpg",
+        "num_objects": 1,
+        "detections": [
+            {
+                "bbox_xyxy": [
+                    977,
+                    939,
+                    1139,
+                    1076
+                ],
+                "score": 0.41403311491012573,
+                "label": "person"
+            }
+        ],
+        "scene": {
+            "terrain": "water_or_wet",
+            "terrain_confidence": 0.7074,
+            "activity": "a laying down person or animal",
+            "activity_confidence": 0.345
+        },
+        "priority": {
+            "score": 60,
+            "tier": "P2",
+            "reason": "Lying down posture detected, hazardous terrain (water_or_wet), multiple subjects (1)."
+        }
+    }
+}
