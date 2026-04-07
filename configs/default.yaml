@@ -1,0 +1,22 @@
+seed: 42
+model_name: openai/clip-vit-base-patch32
+output_dir: outputs/clip-rs-adapted
+
+training:
+  epochs: 3
+  batch_size: 16
+  lr: 2.0e-5
+  weight_decay: 0.01
+  num_workers: 2
+  device: auto
+  mixed_precision: true
+  image_size: 224
+  log_every: 20
+
+stage1:
+  enabled: true
+  dataset_dir: data/rsicd_small
+
+stage2:
+  enabled: false
+  dataset_dir: data/my_sar_data

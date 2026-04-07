@@ -1,0 +1,29 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Environment and secrets
+.env
+.env.*
+*.env
+
+# Dataset and generated artifacts
+data/
+outputs/
+test_images/
+*.pt
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
